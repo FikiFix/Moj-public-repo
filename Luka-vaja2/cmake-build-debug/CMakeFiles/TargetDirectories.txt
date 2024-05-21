@@ -1,0 +1,3 @@
+C:/Users/38668/Desktop/Luka-vaja2/cmake-build-debug/CMakeFiles/Luka_vaja2.dir
+C:/Users/38668/Desktop/Luka-vaja2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/38668/Desktop/Luka-vaja2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
