@@ -1,0 +1,7 @@
+﻿  knjiznica.c
+C:\Users\38668\Desktop\Luka DN\LukaDN_c\knjiznica.c(76,42): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\38668\Desktop\Luka DN\LukaDN_c\knjiznica.c(86,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  main.c
+C:\Users\38668\Desktop\Luka DN\LukaDN_c\main.c(4,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  LukaDN_c.vcxproj -> C:\Users\38668\Desktop\Luka DN\LukaDN_c\x64\Debug\LukaDN_c.exe
