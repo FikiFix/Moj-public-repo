@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\38668\Desktop\Luka DN\Luka_Vaja3\main.c(72,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\38668\Desktop\Luka DN\Luka_Vaja3\main.c(86,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\38668\Desktop\Luka DN\Luka_Vaja3\main.c(86,34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\38668\Desktop\Luka DN\Luka_Vaja3\main.c(87,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\38668\Desktop\Luka DN\Luka_Vaja3\main.c(104,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Luka_Vaja3.vcxproj -> C:\Users\38668\Desktop\Luka DN\Luka_Vaja3\x64\Debug\Luka_Vaja3.exe
