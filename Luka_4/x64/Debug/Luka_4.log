@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\38668\Desktop\Luka DN\Luka_4\main.c(30,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\38668\Desktop\Luka DN\Luka_4\main.c(53,22): warning C4133: 'function': incompatible types - from 'int *' to 'float *'
+C:\Users\38668\Desktop\Luka DN\Luka_4\main.c(53,40): warning C4133: 'function': incompatible types - from 'int *' to 'float *'
+C:\Users\38668\Desktop\Luka DN\Luka_4\main.c(55,22): warning C4133: 'function': incompatible types - from 'int *' to 'float *'
+C:\Users\38668\Desktop\Luka DN\Luka_4\main.c(55,40): warning C4133: 'function': incompatible types - from 'int *' to 'float *'
+C:\Users\38668\Desktop\Luka DN\Luka_4\main.c(75,39): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\38668\Desktop\Luka DN\Luka_4\main.c(137,34): warning C4133: 'function': incompatible types - from 'int *' to 'float *'
+C:\Users\38668\Desktop\Luka DN\Luka_4\main.c(138,25): warning C4133: 'function': incompatible types - from 'int *' to 'float *'
+  Luka_4.vcxproj -> C:\Users\38668\Desktop\Luka DN\Luka_4\x64\Debug\Luka_4.exe
